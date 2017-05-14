@@ -1,0 +1,9 @@
+..\obj\owl.o: ..\STEMWIN\PNG\owl.c
+..\obj\owl.o: C:\Keil_v5\ARM\ARMCC\include\stdlib.h
+..\obj\owl.o: ..\STEMWIN\inc\GUI.h
+..\obj\owl.o: ..\STEMWIN\inc\GUI_ConfDefaults.h
+..\obj\owl.o: ..\STEMWIN\Config\GUIConf.h
+..\obj\owl.o: ..\STEMWIN\inc\GUI_Type.h
+..\obj\owl.o: ..\STEMWIN\inc\LCD.h
+..\obj\owl.o: ..\STEMWIN\inc\Global.h
+..\obj\owl.o: ..\STEMWIN\inc\GUI_Version.h

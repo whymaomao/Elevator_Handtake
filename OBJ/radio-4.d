@@ -1,0 +1,9 @@
+..\obj\radio-4.o: ..\STEMWIN\PNG\radio-4.c
+..\obj\radio-4.o: C:\Keil_v5\ARM\ARMCC\include\stdlib.h
+..\obj\radio-4.o: ..\STEMWIN\inc\GUI.h
+..\obj\radio-4.o: ..\STEMWIN\inc\GUI_ConfDefaults.h
+..\obj\radio-4.o: ..\STEMWIN\Config\GUIConf.h
+..\obj\radio-4.o: ..\STEMWIN\inc\GUI_Type.h
+..\obj\radio-4.o: ..\STEMWIN\inc\LCD.h
+..\obj\radio-4.o: ..\STEMWIN\inc\Global.h
+..\obj\radio-4.o: ..\STEMWIN\inc\GUI_Version.h

@@ -1,0 +1,13 @@
+..\obj\gui_uc_encodenone.o: ..\STEMWIN\Hanzi\GUI_UC_EncodeNone.c
+..\obj\gui_uc_encodenone.o: ..\STEMWIN\inc\GUI_Private.h
+..\obj\gui_uc_encodenone.o: ..\STEMWIN\inc\GUI.h
+..\obj\gui_uc_encodenone.o: ..\STEMWIN\inc\GUI_ConfDefaults.h
+..\obj\gui_uc_encodenone.o: ..\STEMWIN\Config\GUIConf.h
+..\obj\gui_uc_encodenone.o: ..\STEMWIN\inc\GUI_Type.h
+..\obj\gui_uc_encodenone.o: ..\STEMWIN\inc\LCD.h
+..\obj\gui_uc_encodenone.o: ..\STEMWIN\inc\Global.h
+..\obj\gui_uc_encodenone.o: ..\STEMWIN\inc\GUI_Version.h
+..\obj\gui_uc_encodenone.o: ..\STEMWIN\inc\LCD_Protected.h
+..\obj\gui_uc_encodenone.o: ..\STEMWIN\inc\GUI_Debug.h
+..\obj\gui_uc_encodenone.o: D:\software\MDK\ARM\ARMCC\Bin\..\include\stddef.h
+..\obj\gui_uc_encodenone.o: ..\STEMWIN\inc\WM_GUI.h

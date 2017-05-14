@@ -1,0 +1,9 @@
+..\obj\printer-2.o: ..\STEMWIN\PNG\printer-2.c
+..\obj\printer-2.o: C:\Keil_v5\ARM\ARMCC\include\stdlib.h
+..\obj\printer-2.o: ..\STEMWIN\inc\GUI.h
+..\obj\printer-2.o: ..\STEMWIN\inc\GUI_ConfDefaults.h
+..\obj\printer-2.o: ..\STEMWIN\Config\GUIConf.h
+..\obj\printer-2.o: ..\STEMWIN\inc\GUI_Type.h
+..\obj\printer-2.o: ..\STEMWIN\inc\LCD.h
+..\obj\printer-2.o: ..\STEMWIN\inc\Global.h
+..\obj\printer-2.o: ..\STEMWIN\inc\GUI_Version.h

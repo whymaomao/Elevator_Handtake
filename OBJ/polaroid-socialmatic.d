@@ -1,0 +1,9 @@
+..\obj\polaroid-socialmatic.o: ..\STEMWIN\PNG\polaroid-socialmatic.c
+..\obj\polaroid-socialmatic.o: C:\Keil_v5\ARM\ARMCC\include\stdlib.h
+..\obj\polaroid-socialmatic.o: ..\STEMWIN\inc\GUI.h
+..\obj\polaroid-socialmatic.o: ..\STEMWIN\inc\GUI_ConfDefaults.h
+..\obj\polaroid-socialmatic.o: ..\STEMWIN\Config\GUIConf.h
+..\obj\polaroid-socialmatic.o: ..\STEMWIN\inc\GUI_Type.h
+..\obj\polaroid-socialmatic.o: ..\STEMWIN\inc\LCD.h
+..\obj\polaroid-socialmatic.o: ..\STEMWIN\inc\Global.h
+..\obj\polaroid-socialmatic.o: ..\STEMWIN\inc\GUI_Version.h

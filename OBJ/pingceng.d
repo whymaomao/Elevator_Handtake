@@ -1,0 +1,9 @@
+..\obj\pingceng.o: ..\STEMWIN\PNG\pingceng.c
+..\obj\pingceng.o: D:\software\MDK\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\pingceng.o: ..\STEMWIN\inc\GUI.h
+..\obj\pingceng.o: ..\STEMWIN\inc\GUI_ConfDefaults.h
+..\obj\pingceng.o: ..\STEMWIN\Config\GUIConf.h
+..\obj\pingceng.o: ..\STEMWIN\inc\GUI_Type.h
+..\obj\pingceng.o: ..\STEMWIN\inc\LCD.h
+..\obj\pingceng.o: ..\STEMWIN\inc\Global.h
+..\obj\pingceng.o: ..\STEMWIN\inc\GUI_Version.h

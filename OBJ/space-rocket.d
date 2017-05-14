@@ -1,0 +1,9 @@
+..\obj\space-rocket.o: ..\STEMWIN\PNG\space-rocket.c
+..\obj\space-rocket.o: C:\Keil_v5\ARM\ARMCC\include\stdlib.h
+..\obj\space-rocket.o: ..\STEMWIN\inc\GUI.h
+..\obj\space-rocket.o: ..\STEMWIN\inc\GUI_ConfDefaults.h
+..\obj\space-rocket.o: ..\STEMWIN\Config\GUIConf.h
+..\obj\space-rocket.o: ..\STEMWIN\inc\GUI_Type.h
+..\obj\space-rocket.o: ..\STEMWIN\inc\LCD.h
+..\obj\space-rocket.o: ..\STEMWIN\inc\Global.h
+..\obj\space-rocket.o: ..\STEMWIN\inc\GUI_Version.h

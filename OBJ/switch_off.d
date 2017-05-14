@@ -1,0 +1,9 @@
+..\obj\switch_off.o: ..\STEMWIN\PNG\switch_off.c
+..\obj\switch_off.o: D:\software\MDK\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\switch_off.o: ..\STEMWIN\inc\GUI.h
+..\obj\switch_off.o: ..\STEMWIN\inc\GUI_ConfDefaults.h
+..\obj\switch_off.o: ..\STEMWIN\Config\GUIConf.h
+..\obj\switch_off.o: ..\STEMWIN\inc\GUI_Type.h
+..\obj\switch_off.o: ..\STEMWIN\inc\LCD.h
+..\obj\switch_off.o: ..\STEMWIN\inc\Global.h
+..\obj\switch_off.o: ..\STEMWIN\inc\GUI_Version.h

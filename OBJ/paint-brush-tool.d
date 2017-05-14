@@ -1,0 +1,9 @@
+..\obj\paint-brush-tool.o: ..\STEMWIN\PNG\paint-brush-tool.c
+..\obj\paint-brush-tool.o: C:\Keil_v5\ARM\ARMCC\include\stdlib.h
+..\obj\paint-brush-tool.o: ..\STEMWIN\inc\GUI.h
+..\obj\paint-brush-tool.o: ..\STEMWIN\inc\GUI_ConfDefaults.h
+..\obj\paint-brush-tool.o: ..\STEMWIN\Config\GUIConf.h
+..\obj\paint-brush-tool.o: ..\STEMWIN\inc\GUI_Type.h
+..\obj\paint-brush-tool.o: ..\STEMWIN\inc\LCD.h
+..\obj\paint-brush-tool.o: ..\STEMWIN\inc\Global.h
+..\obj\paint-brush-tool.o: ..\STEMWIN\inc\GUI_Version.h

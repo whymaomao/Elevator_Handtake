@@ -1,0 +1,9 @@
+..\obj\light_1.o: ..\STEMWIN\PNG\light.c
+..\obj\light_1.o: D:\software\MDK\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\light_1.o: ..\STEMWIN\inc\GUI.h
+..\obj\light_1.o: ..\STEMWIN\inc\GUI_ConfDefaults.h
+..\obj\light_1.o: ..\STEMWIN\Config\GUIConf.h
+..\obj\light_1.o: ..\STEMWIN\inc\GUI_Type.h
+..\obj\light_1.o: ..\STEMWIN\inc\LCD.h
+..\obj\light_1.o: ..\STEMWIN\inc\Global.h
+..\obj\light_1.o: ..\STEMWIN\inc\GUI_Version.h

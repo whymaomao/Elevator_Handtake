@@ -1,0 +1,9 @@
+..\obj\off.o: ..\STEMWIN\PNG\OFF.c
+..\obj\off.o: D:\software\MDK\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\off.o: ..\STEMWIN\inc\GUI.h
+..\obj\off.o: ..\STEMWIN\inc\GUI_ConfDefaults.h
+..\obj\off.o: ..\STEMWIN\Config\GUIConf.h
+..\obj\off.o: ..\STEMWIN\inc\GUI_Type.h
+..\obj\off.o: ..\STEMWIN\inc\LCD.h
+..\obj\off.o: ..\STEMWIN\inc\Global.h
+..\obj\off.o: ..\STEMWIN\inc\GUI_Version.h
